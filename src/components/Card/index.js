@@ -5,11 +5,11 @@ class Card extends React.Component {
     constructor() {
         super();
         this.state ={
-            title: "BELAJAR",
+            title: "BELAJARs",
             subTitle: "HAHAHAHA"
         }
     }
-    
+
     render() {
         return (
             <div class="card">
